@@ -1,0 +1,2 @@
+# pmunezer_tardi_binf6210_assignment_2
+Tardigrada genetic diversitty
